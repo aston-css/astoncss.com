@@ -1,0 +1,13 @@
+<div class="header">
+  {% if site.header_flash %}<div class="header-flash"><div class="container">{{ site.header_flash | markdownify }}</div></div>{% endif %}
+  <nav class="header-nav">
+    <div class="container">
+      <ul class="flex">
+        <li><h1><a href="{{ site.url }}">{{ site.long_title }}</a></h1></li>
+        <div class="flex-right">
+          {% for link in site.header_links %}<li class=""><a href="{{ link.url }}">{{ link.text }}</a></li>{% endfor %}
+        </div>
+      </ul>
+    </div>
+  </nav>
+</div>

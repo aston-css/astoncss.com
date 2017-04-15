@@ -1,0 +1,187 @@
+---
+---
+
+$page-width: 800px;
+
+$text-color: #111;
+$link-color: #444;
+
+$light-text-color: #fff;
+$light-link-color: #ddd;
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 12pt;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-image: url('/img/placeholder.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  color: $text-color;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  font-weight: 600;
+}
+
+p {
+  margin-top: 0;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.flex-right {
+  margin-left: auto;
+}
+
+.container {
+  width: 100%;
+  max-width: $page-width;
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.header-flash {
+  background-color: #113;
+  color: $light-text-color;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 1.1rem;
+
+  p {
+    margin: 0;
+  }
+}
+
+.header-nav {
+  background-color: #303845;
+  color: $light-text-color;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 1.1rem;
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    display: inline-block;
+
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
+  }
+
+  a {
+    color: $light-text-color;
+    text-decoration: none;
+  }
+
+  h1 {
+    margin: 0;
+    font-size: inherit;
+  }
+}
+
+.header-logo {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.content {
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 5px;
+  margin-top: 20px;
+  line-height: 1.5rem;
+
+  a {
+    color: $link-color;
+    border-bottom: 1px dotted $link-color;
+
+    &:hover {
+      color: lighten($link-color, 20);
+      border-color: lighten($link-color, 20);
+    }
+  }
+
+  h1 {
+    //text-transform: uppercase;
+    font-size: 1.6rem;
+  }
+
+  h2 {
+    font-size: 1.35rem;
+  }
+
+  h3 {
+    font-size: 1.175rem;
+  }
+
+  h4 {
+    font-size: 1rem;
+  }
+
+  h5 {
+    font-size: 0.9rem;
+  }
+
+  h6 {
+    font-size: 0.8rem;
+  }
+}
+
+.footer {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: $light-text-color;
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    display: inline-block;
+
+    &:not(:last-child) {
+      margin-right: 10px;
+    }
+  }
+
+  a {
+    color: $light-link-color;
+    border-bottom: 1px dotted $light-link-color;
+
+    &:hover {
+      color: lighten($light-link-color, 20);
+      border-color: lighten($light-link-color, 20);
+    }
+  }
+}

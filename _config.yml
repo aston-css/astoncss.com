@@ -1,0 +1,33 @@
+title: ACSS
+long_title: Aston Compter Science Society
+description: "We are the student Computer Science society at Aston University. We run social and tech events, open to all."
+keywords: "Aston University, Computer Science, ACSS, AstonHack"
+author: "ACSS"
+favicon: "/img/favicon.png"
+
+header_flash: false # set this to text when you want a banner to appear at the top of the page, otherwise false
+
+header_links:
+  - text: "Upcoming Events"
+    url: "/events"
+  - text: "Recent Posts"
+    url: "/posts"
+
+footer_links:
+  - text: "Code on GitHub"
+    url: "https://github.com/aston-css/aston-css.github.io"
+  - text: "Inspired by Hacksmiths"
+    url: "http://goldsmiths.tech/"
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  sass_dir: css

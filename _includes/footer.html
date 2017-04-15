@@ -1,0 +1,9 @@
+<div class="footer">
+  <div class="container">
+    <nav>
+      <ul>
+        {% for link in site.footer_links %}<li><a href="{{ link.url }}">{{ link.text }}</a></li>{% endfor %}
+      </ul>
+    </nav>
+  </div>
+</div>
