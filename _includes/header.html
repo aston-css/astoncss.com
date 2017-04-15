@@ -3,9 +3,9 @@
   <nav class="header-nav">
     <div class="container">
       <ul class="flex">
-        <li><h1><a href="{{ site.url }}">{{ site.long_title }}</a></h1></li>
+        <li><h1><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.long_title }}</a></h1></li>
         <div class="flex-right">
-          {% for link in site.header_links %}<li class=""><a href="{{ link.url }}">{{ link.text }}</a></li>{% endfor %}
+          {% for link in site.header_links %}<li class=""><a href="{{ link.url | prepend: site.baseurl | prepend: site.url }}">{{ link.text }}</a></li>{% endfor %}
         </div>
       </ul>
     </div>
