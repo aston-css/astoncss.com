@@ -89,10 +89,10 @@ p {
 
   li {
     display: inline-block;
+  }
 
-    &:not(:last-child) {
-      margin-right: 20px;
-    }
+  .flex-right li:not(:last-child) {
+    margin-right: 20px;
   }
 
   a {
@@ -104,6 +104,16 @@ p {
     margin: 0;
     font-size: inherit;
   }
+
+  @media (max-width: $page-width) {
+    text-align: center;
+
+    .flex-right {
+      width: 100%;
+    }
+  }
+
+
 }
 
 .header-logo {
