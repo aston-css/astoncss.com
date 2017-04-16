@@ -3,9 +3,6 @@ layout: default
 ---
 <article class="post">
   <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+  <p class="date"><small>{{ page.date | date: "%b %-d, %Y" }}</small></p>
   {{ content }}
-  <div class="meta">
-    <p class="permalink"><a href="{{ page.url }}">Permalink</a></p>
-    <p class="date">{{ page.date | date: "%b %-d, %Y" }}</p>
-  </div>
 </article>

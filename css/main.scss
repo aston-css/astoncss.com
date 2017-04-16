@@ -15,17 +15,22 @@ $light-link-color: #ddd;
 
 html {
   font-family: 'Helvetica Neue', sans-serif;
-  font-size: 12pt;
-}
-
-body {
-  margin: 0;
-  padding: 0;
+  background-color: #222;
   min-height: 100vh;
   background-image: url('{{ '/img/placeholder.jpg' | prepend: site.baseurl | prepend: site.url }}');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
+  font-size: 12pt;
+
+  @media (max-width: $page-width) {
+    font-size: 11pt;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
   color: $text-color;
 }
 
@@ -37,10 +42,6 @@ a {
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   font-weight: 600;
-}
-
-p {
-  margin-top: 0;
 }
 
 .flex {
@@ -140,12 +141,11 @@ p {
   }
 
   h1 {
-    //text-transform: uppercase;
-    font-size: 1.6rem;
+    font-size: 1.9rem;
   }
 
   h2 {
-    font-size: 1.35rem;
+    font-size: 1.4rem;
   }
 
   h3 {
