@@ -5,7 +5,8 @@ keywords: "Aston University, Computer Science, ACSS, AstonHack"
 author: "ACSS"
 favicon: "/img/favicon.ico"
 
-header_flash: false # set this to text when you want a banner to appear at the top of the page, otherwise false
+header_flash: "Consider subscribing to our [new mailing list](http://eepurl.com/cLia7P)!" # set this to text when you want a banner to appear at the top of the page, otherwise false
+header_flash_color: "rgb(233, 24, 75)"
 
 header_links:
   - text: "Upcoming Events"

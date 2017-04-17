@@ -7,7 +7,7 @@ $text-color: #111;
 $link-color: #444;
 
 $light-text-color: #fff;
-$light-link-color: #ddd;
+$light-link-color: #fff;
 
 * {
   box-sizing: border-box;
@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header-flash {
-  background-color: #113;
+  background-color: {{ site.header_flash_color }};
   color: $light-text-color;
   text-align: center;
   padding-top: 10px;
@@ -72,6 +72,16 @@ h1, h2, h3, h4, h5, h6 {
 
   p {
     margin: 0;
+  }
+
+  a {
+    color: $light-link-color;
+    border-bottom: 1px dotted $light-link-color;
+
+    &:hover {
+      color: darken($light-link-color, 20);
+      border-color: darken($light-link-color, 20);
+    }
   }
 }
 
@@ -195,8 +205,20 @@ h1, h2, h3, h4, h5, h6 {
     border-bottom: 1px dotted $light-link-color;
 
     &:hover {
-      color: lighten($light-link-color, 20);
-      border-color: lighten($light-link-color, 20);
+      color: darken($light-link-color, 20);
+      border-color: darken($light-link-color, 20);
     }
+  }
+}
+
+.large-calendar {
+  @media (max-width: $page-width) {
+    display: none;
+  }
+}
+
+.small-calendar {
+  @media (min-width: $page-width) {
+    display: none;
   }
 }
