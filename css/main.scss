@@ -110,6 +110,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 
     .flex-right {
+      padding-top: 10px;
       width: 100%;
     }
   }
@@ -182,6 +183,10 @@ h1, h2, h3, h4, h5, h6 {
 
     &:not(:last-child) {
       margin-right: 10px;
+
+      @media (max-width: $page-width) {
+        padding-bottom: 10px;
+      }
     }
   }
 
