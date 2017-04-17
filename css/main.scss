@@ -218,7 +218,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .small-calendar {
-  @media (min-width: $page-width) {
+  @media (min-width: $page-width + 1) {
     display: none;
   }
 }
