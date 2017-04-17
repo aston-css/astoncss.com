@@ -3,7 +3,7 @@ long_title: Aston Compter Science Society
 description: "We are the student Computer Science society at Aston University. We run social and tech events, open to all."
 keywords: "Aston University, Computer Science, ACSS, AstonHack"
 author: "ACSS"
-favicon: "/img/favicon.png"
+favicon: "/img/favicon.ico"
 
 header_flash: false # set this to text when you want a banner to appear at the top of the page, otherwise false
 
