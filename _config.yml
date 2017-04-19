@@ -20,7 +20,7 @@ footer_links:
   - text: "Inspired by Hacksmiths"
     url: "http://goldsmiths.tech/"
 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://astoncss.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
