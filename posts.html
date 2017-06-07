@@ -3,17 +3,12 @@ layout: default
 ---
 
 <div class="posts">
-  {% if site.posts.length %}
-  {% for post in site.posts %}
-    <article class="post">
-      <h2><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></h2>
-      <p class="date"><small>{{ post.date | date: "%b %-d, %Y" }}</small></p>
-      {% if post.summary %}{{ post.summary }}{% else %}{{ post.excerpt | strip_html | strip_newlines | truncate: 240 }}{% endif %}
-      <p><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">Read more &raquo;</a></p>
-    </article>
-  {% endfor %}
-  {% else %}
-  <h2>Recent posts</h2>
-  <p>No posts yet... 🙄</p>
-  {% endif %}
+    {% for post in site.posts %}
+      <article class="post">
+        <h2><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></h2>
+        <p class="date"><small>{{ post.date | date: "%b %-d, %Y" }}</small></p>
+          {% if post.summary %}{{ post.summary }}{% else %}{{ post.excerpt | strip_html | strip_newlines | truncate: 240 }}{% endif %}
+        <p><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">Read more &raquo;</a></p>
+      </article>
+    {% endfor %}
 </div>
