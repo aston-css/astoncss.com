@@ -3,7 +3,6 @@ layout: default
 ---
 
 <div class="posts">
-  {% if site.posts.size %}
   {% for post in site.posts %}
     <article class="post">
       <h2><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></h2>
@@ -12,8 +11,4 @@ layout: default
       <p><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">Read more &raquo;</a></p>
     </article>
   {% endfor %}
-  {% else %}
-  <h2>Recent posts</h2>
-  <p>No posts yet... 🙄</p>
-  {% endif %}
 </div>
