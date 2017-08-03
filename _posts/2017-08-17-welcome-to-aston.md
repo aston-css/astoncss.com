@@ -11,6 +11,8 @@ First thing you need to know about the Aston Computer Science Society is that we
 You don't need to be a Computer Science student or even remotely good with technology - all you need is an interest in technology.
 We all know how hard University can be so we've made a quick list of things we'd recommend you do!
 
+**Tl;dr - follow our social media, come along to our events, definitely come along to hackathons & other tech events and find out more about the ACSS/Accenture scholarship**
+
 ## 1. Keep up-to-date
 
 We've mentioned this before, but we'd seriously recommend you subscribe to our mailing list which you can do [here][Mail] so you can keep up to date with all the things we've got going on!
@@ -33,9 +35,17 @@ Hackathons are huge invention marathons which are usually 24 or 48 hours long, a
 
 One of the best features of Birmingham (apart from the city itself of course) is the amazing tech community which is alive and buzzing around the city.
 
-As well as AstonHack, other Universities also host 
+As well as AstonHack, other Universities also host
 
 We'd strongly recommend you get involved in them and this year comes with a special twist! We've recently aquired sponsorship from [Accenture][Accenture] to provide the **ACSS/Accenture** Sponsorship, which is a special fund for those who want to come along to tech events, but otherwise couldn't afford to do so.
+
+We've currently not worked out a criteria for our scholarship, but come along to one of our events or message a member of our committee, and we'll get back to you asap about it!
+
+We're so excited about this and we hope it'll encourage more of you to come along to events, like Hackference, a tech conference and hackathon conmbo in Birmingham, and far distance events like AnvilHack, hosted by Hacksmiths in London.
+
+## 4. Have fun!
+
+It's your first year at University, so from all of us here, we hope you have an amazing first year! 
 
 [Mail]: http://twitter.us15.list-manage.com/subscribe?u=5c76c6487162a4644f24574b6&id=8948e9a3d3
 [Twitter]: https://twitter.com/AstonCSS
