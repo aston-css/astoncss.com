@@ -45,7 +45,7 @@ We're so excited about this and we hope it'll encourage more of you to come alon
 
 ## 4. Have fun!
 
-It's your first year at University, so from all of us here, we hope you have an amazing first year! 
+It's your first year at University, so from all of us here, we hope you have an amazing first year! Whether you come to one or one hundred ACSS events, we're always here for you and we hope you'll come to love us as much as we love you!
 
 [Mail]: http://twitter.us15.list-manage.com/subscribe?u=5c76c6487162a4644f24574b6&id=8948e9a3d3
 [Twitter]: https://twitter.com/AstonCSS
