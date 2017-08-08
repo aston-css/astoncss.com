@@ -35,11 +35,11 @@ Hackathons are huge invention marathons which are usually 24 or 48 hours long, a
 
 One of the best features of Birmingham (apart from the city itself of course) is the amazing tech community which is alive and buzzing around the city.
 
-As well as AstonHack, other Universities also host
+As well as AstonHack, other Universities also host hackathons, as our fellow Birmingham universities do with BrumHack at University of Birmingham, and BullsHack, held at Birmingham City University - both of them fantastic hackathons!
 
 We'd strongly recommend you get involved in them and this year comes with a special twist! We've recently aquired sponsorship from [Accenture][Accenture] to provide the **ACSS/Accenture** Sponsorship, which is a special fund for those who want to come along to tech events, but otherwise couldn't afford to do so.
 
-We've currently not worked out a criteria for our scholarship, but come along to one of our events or message a member of our committee, and we'll get back to you asap about it!
+We've currently not worked out a criteria for our scholarship, but come along to one of our events or message a member of our committee, and we'll get back to you asap about it through another blog post to keep up-to-date.
 
 We're so excited about this and we hope it'll encourage more of you to come along to events, like Hackference, a tech conference and hackathon conmbo in Birmingham, and far distance events like AnvilHack, hosted by Hacksmiths in London.
 
