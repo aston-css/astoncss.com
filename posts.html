@@ -8,6 +8,7 @@ layout: default
     <article class="post">
       <h2><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></h2>
       <p class="date"><small>{{ post.date | date: "%b %-d, %Y" }}</small></p>
+      <p class="author"><small>Written by {{ post.author }}</small></p>
       {% if post.summary %}{{ post.summary }}{% else %}{{ post.excerpt | strip_html | strip_newlines | truncate: 240 }}{% endif %}
       <p><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">Read more &raquo;</a></p>
     </article>
