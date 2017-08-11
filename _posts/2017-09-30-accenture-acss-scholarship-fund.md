@@ -2,6 +2,7 @@
 layout: post
 title:  "The ACSS/Accenture Scholarship Fund"
 date:   2017-09-30 12:00:00 +0000
+author: Sailesh Patel
 ---
 
 The ACSS/Accenture Scholarship Fund is a brand new fund that we've created with the help of [Accenture][Accenture].
@@ -23,6 +24,6 @@ We're hoping to run the scholarship throughout the year, in the hope that it'll 
 ## How?
 
 
-[Hack The Burgh]: http://2017.hacktheburgh.com/
+[Hack The Burgh]: http://2017.hackthebuk rgh.com/
 [AstonHack]: https://astoncss.com/
 [Accenture]: https://www.accenture.com
