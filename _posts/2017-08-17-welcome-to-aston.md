@@ -5,55 +5,43 @@ date:   2017-08-17 00:00:00 +0000
 author: Sailesh Patel
 ---
 
+![](/img/acss-cutout.png)
+
 First of all, welcome to Aston!
 
-First thing you need to know about the Aston Computer Science Society is that we're here for people who just love  technology.
+The first thing you need to know about the Aston Computer Science Society is that we're here for anybody who loves technology. You don't need to be a Computer Science student or even remotely experienced - all you need is an interest in tech.
 
-You don't need to be a Computer Science student or even remotely good with technology - all you need is an interest in technology.
-We all know how hard University can be so we've made a quick list of things we'd recommend you do!
+Starting University can be difficult, so we've made a quick list of things we recommend you do!
 
-**Tl;dr - follow our social media, come along to our events, definitely come along to hackathons & other tech events and find out more about the ACSS/Accenture scholarship**
+**Tl;dr - follow our social media, attend lots of events, check out the wider tech community, and take as many opportunities as possible!**
 
 ## 1. Keep up-to-date
 
-We've mentioned this before, but we'd seriously recommend you subscribe to our mailing list which you can do [here][Mail] so you can keep up to date with all the things we've got going on!
+As it says across the top of this site, you should subscribe to [our mailing list][Mail], which will keep you up to date with all the things we've got going on! We also recommend following us on [Twitter][Twitter], liking our [Facebook page][Facebook] and joining our [Facebook group][Facebook Group] as we tend to announce a lot of important news via them.
 
-We'd also recommend following us on [Twitter][Twitter], liking our [Facebook page][Facebook] and joining our [Facebook group][Facebook Group] as we tend to announce a lot of important news (including news about our very own hackathon - [AstonHack][AstonHack]).
-
-We'd also recommend you check out our [Calendar][Calendar] if you don't have (or like) social media so you can be up to date with all the events we've got planned this year.
+We also have a [Calendar][Calendar] which we keep updated with all the exciting events we have planned!
 
 ## 2. Come along to events!
 
-Now we know it's a scary (but hopefully exciting) experience, so we hope that you'll dive right in to ACSS events and the best way to start is by coming to our welcome event (tbc)! You'll find out about what we've got planned for you and about our awesome events!
+We hope that you'll dive right in to ACSS events from September, and the best way to start is by coming to our welcome event. You'll find out about what we've got planned over the year, and all about our awesome events! Even if you come along to a couple of our socials or maybe pop along to the odd tech event, we'll make sure that there's something for you. *Welcome event date tbc*.
 
-Even if you come along to a couple of our socials or maybe pop along to the odd tech event, we'll make sure that there's something for you.
+Although we host loads of events throughout the year, our biggest event is our yearly hackathon called [AstonHack][AstonHack], with this year being our third. Hackathons are huge invention marathons which are usually 24 or 48 hours long, and participants (otherwise known as hackers) invent awesome websites, apps and hardware hacks which they show off to everybody else at the end of the event! It's a great weekend, full of hacking and learning, and we hope to see you at ours.
 
-Although we host loads of events throughout the year, our biggest event is our yearly hackathon called [AstonHack][AstonHack], which we've been hosting for the past two years, with this year being our third event, and we'd strongly recommend you come along for 24-hours of hacking and learning!
+## 3. Get involved in the Brum tech community
 
-Hackathons are huge invention marathons which are usually 24 or 48 hours long, and participants (otherwise known as hackers) invent awesome websites, apps and hardware hacks which they show off to all the other participants at the end of the event!
+One of the best parts of Birmingham (apart from the city itself of course) is the amazing tech community.
 
-## 3. Get involved in Brum tech community
+As well as AstonHack, other Universities also host hackathons - BrumHack at the University of Birmingham, and BullHacks held at Birmingham City University - both of them fantastic! We strongly recommend you get involved in them.
 
-One of the best features of Birmingham (apart from the city itself of course) is the amazing tech community which is alive and buzzing around the city.
-
-As well as AstonHack, other Universities also host hackathons, as our fellow Birmingham universities do with BrumHack at University of Birmingham, and BullsHack, held at Birmingham City University - both of them fantastic hackathons!
-
-We'd strongly recommend you get involved in them and this year comes with a special twist! We've recently aquired sponsorship from [Accenture][Accenture] to provide the **ACSS/Accenture** Sponsorship, which is a special fund for those who want to come along to tech events, but otherwise couldn't afford to do so.
-
-We've currently not worked out a criteria for our scholarship, but come along to one of our events or message a member of our committee, and we'll get back to you asap about it through another blog post to keep up-to-date.
-
-We're so excited about this and we hope it'll encourage more of you to come along to events, like Hackference, a tech conference and hackathon conmbo in Birmingham, and far distance events like AnvilHack, hosted by Hacksmiths in London.
+The city is host to a number of meetups, with usually multiple happening in one week. You probably don't want to go to all of them, but it can be a great experience to check them out every once in a while. We'll let you know when a few of us are going to one.
 
 ## 4. Have fun!
 
-It's your first year at University, so from all of us here, we hope you have an amazing first year! Whether you come to one or one hundred ACSS events, we're always here for you and we hope you'll come to love us as much as we love you!
+It's your first year at University, so from all of us here, we hope you have an amazing time! Whether you come to one or one hundred ACSS events, we're always here for you and we hope you'll come to love us as much as we love you!
 
 [Mail]: http://twitter.us15.list-manage.com/subscribe?u=5c76c6487162a4644f24574b6&id=8948e9a3d3
 [Twitter]: https://twitter.com/AstonCSS
-[Slack]:   https://aston-css.slack.com/signup
 [Facebook]: https://www.facebook.com/AstonCSS
 [Facebook Group]: https://www.facebook.com/groups/AstonCSS
 [Calendar]: https://astoncss.com/events
-[CoC]: https://github.com/aston-css/code-of-conduct
 [AstonHack]: https://astoncss.com/
-[Accenture]: https://www.accenture.com
