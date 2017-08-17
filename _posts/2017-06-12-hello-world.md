@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello World!"
 date:   2017-06-12 19:30:00 +0000
+author: Scott Street
 ---
 
 Welcome to our brand new ACSS website!

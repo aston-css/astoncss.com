@@ -33,3 +33,4 @@ exclude:
   - Gemfile.lock
 sass:
   sass_dir: css
+future: false

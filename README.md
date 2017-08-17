@@ -10,7 +10,7 @@ First up, you'll want to fork this repository on GitHub. This creates your own v
 
 You'll need to have Ruby installed, along with bundler. Then run `bundle install` to fetch all the dependencies. TODO: add better instructions here.
 
-You can then run `bundle exec jekyll serve` and open up the URL it shows.
+You can then run `bundle exec jekyll serve` and open up the URL it shows. To show future blog posts (those with a date later than the present date), run `bundle exec jekyll serve --future`. 
 
 ### Writing blog posts
 

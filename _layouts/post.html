@@ -4,5 +4,6 @@ layout: default
 <article class="post">
   <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
   <p class="date"><small>{{ page.date | date: "%b %-d, %Y" }}</small></p>
+  <p class="author"><small>Written by {{ page.author }}</small></p>
   {{ content }}
 </article>
