@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Aston!"
-date:   2017-08-17 12:00:00 +0000
+date:   2017-08-17 00:00:00 +0000
 author: Sailesh Patel
 ---
 
