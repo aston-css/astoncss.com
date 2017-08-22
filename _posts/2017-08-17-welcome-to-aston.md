@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Aston!"
 date:   2017-08-17 00:00:00 +0000
 author: Sailesh Patel
+description: Our welcome blog, telling you all about the ACSS and Computer Science here at Aston!
 ---
 
 ![](/img/acss-cutout.png)
