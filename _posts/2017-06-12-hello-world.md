@@ -3,7 +3,7 @@ layout: post
 title:  "Hello World!"
 date:   2017-06-12 19:30:00 +0000
 author: Scott Street
-description: Our first ever blog post! Here you'll find out about our Code of Conduct, mailing list, Slack and how to find out about what we've got planned for this year. 
+summary: Our initial blog post, which contains information about us and the best way to keep up to date with all that's happening in the ACSS.
 ---
 
 Welcome to our brand new ACSS website!
