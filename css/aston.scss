@@ -132,6 +132,11 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   margin-top: 30px;
   margin-bottom: 30px;
+
+  img {
+    width: 100%;
+    max-width: 360px;
+  }
 }
 
 .content {
@@ -173,6 +178,10 @@ h1, h2, h3, h4, h5, h6 {
 
   h6 {
     font-size: 0.8rem;
+  }
+
+  img {
+    max-width: 100%;
   }
 }
 
